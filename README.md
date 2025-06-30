@@ -75,3 +75,6 @@ Capture live network traffic using Wireshark and identify at least **three diffe
 ### 5. Why is `http://neverssl.com` particularly useful for HTTP traffic analysis?
 - `neverssl.com` forces traffic over plain HTTP instead of HTTPS.
 - This makes it ideal for observing unencrypted **HTTP requests and responses** in Wireshark, which are otherwise hidden when using secure sites.
+
+  > ⚠️ Note: The `fixed.pcap` file is large and can't be previewed on GitHub. Please download and open it using Wireshark to view the contents.
+
